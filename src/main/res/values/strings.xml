@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PrimeiroCliente</string>
+
+    <string name="text">Lorem Ipsum is simply dummy text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard dummy
+        text ever since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book</string>
+
+    <string name="leia_mais">Leia Mais</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="text_splash">Cliente Empreendedor</string>
+
+    <string name="version_app">Versão 1.0</string>
+
+</resources>
